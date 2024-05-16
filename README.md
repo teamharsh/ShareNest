@@ -1,6 +1,5 @@
 Sure, here's a single `README.md` file for setting up the ShareNest project:
 
-```markdown
 # ShareNest
 
 ShareNest is a file sharing application built with React and Node.js.
@@ -75,10 +74,3 @@ Now, you should have both the client and server running.
 ## Credits
 
 This project was created by [Team Harsh](https://github.com/teamharsh).
-
-## License
-
-This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
-```
-
-This `README.md` file provides a step-by-step guide to setting up the ShareNest project with both client and server components, along with the necessary configuration details.
